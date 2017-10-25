@@ -1,0 +1,10 @@
+c:\users\popo\source\repos\cprTjekker\cprTjekker\bin\Debug\cprTjekker.exe.config
+c:\users\popo\source\repos\cprTjekker\cprTjekker\bin\Debug\cprTjekker.exe
+c:\users\popo\source\repos\cprTjekker\cprTjekker\bin\Debug\cprTjekker.pdb
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.Form1.resources
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.Properties.Resources.resources
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.csproj.GenerateResource.Cache
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.csproj.CoreCompileInputs.cache
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.exe
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.pdb
+c:\users\popo\source\repos\cprTjekker\cprTjekker\obj\Debug\cprTjekker.csprojResolveAssemblyReference.cache
